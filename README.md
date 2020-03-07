@@ -19,9 +19,9 @@ npm start (or "npm run dev" to run the code in development environment)
 - "env-cmd": "^10.1.0",
 - "nodemon": "^2.0.2"
 
-##Running the tests
+## Running the tests
 ```
 cd Chat-App/
 npm run test
 ```
-#Happy Coding
+# Happy Coding
